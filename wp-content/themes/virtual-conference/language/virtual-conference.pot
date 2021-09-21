@@ -1,0 +1,1241 @@
+# Copyright (C) 2021 WPEventPartners
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Virtual Conference 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/virtual-conference\n"
+"POT-Creation-Date: 2021-06-15 09:51:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:63 index.php:66
+msgid "More posts"
+msgstr ""
+
+#. translators: 1: title.
+
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:40
+msgid "© Copyright "
+msgstr ""
+
+#: footer.php:41
+msgid "Virtual Conference"
+msgstr ""
+
+#: footer.php:43
+msgid "Developed by:"
+msgstr ""
+
+#: footer.php:43 functions.php:362
+msgid "WPEventPartners"
+msgstr ""
+
+#: footer.php:45
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:45
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:91
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:272
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:273
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:274
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:276
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:277
+msgid "Youtube"
+msgstr ""
+
+#: functions.php:278
+msgid "Linkedin"
+msgstr ""
+
+#: functions.php:368
+msgid "Advanced Import"
+msgstr ""
+
+#: functions.php:374
+msgid "WPEventPartners Demo Import"
+msgstr ""
+
+#: functions.php:380
+msgid "Event Registration and Tickets"
+msgstr ""
+
+#: functions.php:386
+msgid "Woocommerce"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:386
+#: inc/TGMPA/class-tgm-plugin-activation.php:827
+#: inc/TGMPA/class-tgm-plugin-activation.php:2533
+#: inc/TGMPA/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:387
+#: inc/TGMPA/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:388
+#: inc/TGMPA/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:934
+#: inc/TGMPA/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:1121
+#: inc/TGMPA/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3509
+#: inc/TGMPA/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3509
+#: inc/TGMPA/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/TGMPA/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. TRANSLATORS: %1 = php version nr, %2 = mysql version nr.
+
+#: inc/TGMPA/plugins/tgm-example-plugin/tgm-example-plugin.php:59
+msgid "<p>You are running on <strong>PHP %1$s</strong> and <strong>MySQL %2$s</strong>.</p>"
+msgstr ""
+
+#: inc/about/about.php:11
+msgid "Get Started"
+msgstr ""
+
+#: inc/about/about.php:34
+msgid "Logo"
+msgstr ""
+
+#: inc/about/about.php:37
+msgid "Upgrade to Pro $49.99"
+msgstr ""
+
+#: inc/about/about.php:40
+msgid "Virtual Conference is a free WordPress theme for events, conferences, conclaves, and meetups. This theme is based on the Event and Conference Management WordPress theme, WPEventPartners. If you are the organizer of the conference and looking to build a Virtual Conference website then this is the best theme for you."
+msgstr ""
+
+#: inc/about/about.php:42
+msgid "Theme Options - Click Here"
+msgstr ""
+
+#: inc/about/about.php:48
+msgid "Once you install all recommended plugins, you can import demo template."
+msgstr ""
+
+#: inc/about/about.php:50
+msgid "View Demo Templates"
+msgstr ""
+
+#: inc/about/about.php:56
+msgid "If you like the theme, please leave a review or Contact us for technical support."
+msgstr ""
+
+#: inc/about/about.php:58
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/about/about.php:58
+msgid "Contact Us"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:82
+msgid "Add new %s"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:238
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/panels/banner-information-option.php:11
+msgid "Banner Information"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:10
+msgid "Event Information"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:22
+msgid "Enable Banner in Home"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:34
+msgid "Enable Banner in other pages"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:48
+msgid "Enable Countdown Timer?"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:64
+msgid "Show Start Date?"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:77
+msgid "Show End Date?"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:90
+msgid "Show Start Time?"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:103
+msgid "Show End Time?"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:116
+msgid "Show Venue?"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:132
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:147
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:160
+msgid "Event Title"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:172
+msgid "Event Sub Title"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:185
+msgid "Event Description"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:198
+msgid "Start Date"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:203
+#: inc/customizer/sections/banner-information/event-information.php:218
+msgid "mm/dd/yyyy"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:213
+msgid "End Date"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:228
+msgid "Start Time"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:241
+msgid "End Time"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:254
+msgid "Event Venue"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:266
+msgid "Enable CTA 1 Button"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:279
+msgid "CTA 1 Button Label"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:294
+msgid "CTA 1 Link"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:309
+msgid "Enable CTA 2 Button"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:322
+msgid "CTA 2 Button Label"
+msgstr ""
+
+#: inc/customizer/sections/banner-information/event-information.php:337
+msgid "CTA 2 Link"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:12
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:23
+msgid "Enable Blog on Home?"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:34
+msgid "Blog List Options :"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:50
+msgid "Layouts :"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:55
+msgid "Sidebar at left"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:56
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:57
+msgid "Sidebar at right"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:69
+msgid "Post View :"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:74
+msgid "Grid View"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:75
+msgid "List View"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:76
+msgid "Fullwidth View"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:87
+msgid "Pagination Type :"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:92
+msgid "Ajax Loadmore"
+msgstr ""
+
+#: inc/customizer/sections/blog-list.php:93
+msgid "Number Pagination"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:13
+msgid "Colors and Fonts"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:15
+msgid "Heading Text Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:32
+#: inc/customizer/sections/site-identity.php:102
+msgid "Choose Font Family For Your Site"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:50
+msgid "Choose Font Size"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:78
+msgid "Heading Font Family"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:101
+msgid "Color Options:"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:123
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:137
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:150
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:163
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:178
+msgid "Light Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:191
+msgid "Dark Color"
+msgstr ""
+
+#: inc/customizer/sections/colors-fonts.php:204
+msgid "Grey Color"
+msgstr ""
+
+#: inc/customizer/sections/copyright.php:8
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/sections/copyright.php:14
+msgid "&copy; Virtual Conference by WPEventPartners"
+msgstr ""
+
+#: inc/customizer/sections/copyright.php:18
+msgid "Your Copyright text here..."
+msgstr ""
+
+#: inc/customizer/sections/event-controller/about-us.php:13
+msgid "About Us Section"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/about-us.php:14
+msgid "About Us Section :"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/about-us.php:24
+#: inc/customizer/sections/event-controller/cta-image.php:22
+#: inc/customizer/sections/event-controller/cta-video.php:22
+#: inc/customizer/sections/event-controller/event-venue.php:23
+msgid "Hide / Show"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/about-us.php:36
+msgid "Enter Heading for About Us"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/about-us.php:52
+msgid "-- Select --"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/about-us.php:58
+msgid "Select Page For About Us Section :"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/about-us.php:69
+msgid "Select Layout For About Us Section"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-image.php:12
+msgid "CTA with Image"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-image.php:38
+#: inc/customizer/sections/event-controller/cta-video.php:38
+msgid "CTA Title"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-image.php:50
+#: inc/customizer/sections/event-controller/drag-and-drop.php:19
+msgid "CTA Image"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-image.php:62
+#: inc/customizer/sections/event-controller/cta-video.php:104
+msgid "CTA Text"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-image.php:74
+#: inc/customizer/sections/event-controller/cta-video.php:116
+msgid "CTA Button Label"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-image.php:86
+#: inc/customizer/sections/event-controller/cta-video.php:128
+msgid "CTA Link"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-video.php:12
+msgid "CTA with Video"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-video.php:52
+msgid "Choose Video Type"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-video.php:56
+msgid "External URL"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-video.php:57
+msgid "Upload Video"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-video.php:68
+msgid "CTA External URL Video"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/cta-video.php:86
+#: inc/customizer/sections/event-controller/drag-and-drop.php:20
+msgid "CTA Video"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:9
+msgid "Drag & Drop"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:14
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:15
+msgid "Counter"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:26
+msgid "Sponsors"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:27
+msgid "Speakers"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:28
+msgid "Schedules"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:29
+msgid "Venue"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:30
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:31
+msgid "Organizers"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:38
+msgid "Pricing"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/drag-and-drop.php:50
+msgid "Drag and Drop Sections to rearrange."
+msgstr ""
+
+#: inc/customizer/sections/event-controller/event-venue.php:12
+msgid "Venue Section"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/event-venue.php:13
+msgid "Venue Section :"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/event-venue.php:35
+msgid "Enter Heading for Venue"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/event-venue.php:48
+msgid "Event Venue Name"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/event-venue.php:59
+msgid "Enter Venue Location"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/event-venue.php:70
+msgid "Enter Venue Description"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/event-venue.php:82
+msgid "Enter iframe for location"
+msgstr ""
+
+#: inc/customizer/sections/event-controller/event-venue.php:93
+msgid "Upload a Venue Image"
+msgstr ""
+
+#: inc/customizer/sections/schedule-option/schedule.php:17
+msgid "Timezone Hide / Show"
+msgstr ""
+
+#: inc/customizer/sections/schedule-option/schedule.php:28
+msgid "Select Layout For Schedule Section"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:29
+msgid "Site Title Show/hide"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:42
+msgid "Tagline Show/hide"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:57
+msgid "Logo Size"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:73
+msgid "Header Height"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:88
+msgid "Site Color"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:11
+#: inc/customizer/sections/social-media.php:23
+#: inc/customizer/sections/social-media.php:26
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:32
+msgid "Select Social Media"
+msgstr ""
+
+#: inc/customizer/sections/social-media.php:38
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/customizer/sections/theme-header.php:11
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/sections/theme-header.php:22
+msgid "Enable Sticky Menu?"
+msgstr ""
+
+#: inc/customizer/sections/theme-header.php:34
+msgid "Header Layout"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:18
+msgid "Processing..."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:62
+msgid "Welcome! Thank you for choosing %1$s!. To fully take advantage of the best our theme can offer, get started."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:62
+msgid "Clicking on get started will activate Advanced Import, WP Event Partners and Wep Demo Import"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:62
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:117
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:198
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/starter-content.php:22
+msgid "The world’s largest Virtual Conference"
+msgstr ""
+
+#: inc/starter-content.php:23
+msgid "Impact Conference 2021"
+msgstr ""
+
+#: inc/starter-content.php:24
+msgid "Redwood Hall, Silicon Valley"
+msgstr ""
+
+#: inc/starter-content.php:25
+msgid "Call of Paper"
+msgstr ""
+
+#: inc/starter-content.php:27 template-registration.php:9
+msgid "Registration"
+msgstr ""
+
+#. translators: %s: post date.
+
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+
+#: inc/template-tags.php:45
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+
+#: inc/template-tags.php:65
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+
+#: inc/template-tags.php:72
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/template-tags.php:82
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: inc/template-tags.php:99
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/widgets.php:15
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:17
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:27
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:36
+msgid "Left Sidebar"
+msgstr ""
+
+#: layouts/about-us/about-us-layout-1.php:32
+#: layouts/about-us/about-us-layout-2.php:32
+#: layouts/about-us/about-us-layout-3.php:32
+#: layouts/about-us/about-us-layout-4.php:32
+#: template-parts/content-blogs.php:36 template-parts/content.php:70
+msgid "Read More"
+msgstr ""
+
+#: layouts/header/header-layout-one.php:30
+msgid "Primary Menu"
+msgstr ""
+
+#: layouts/schedule/schedule-layout-1.php:244
+#: layouts/schedule/schedule-layout-2.php:298
+#: layouts/schedule/schedule-layout-3.php:323
+msgid "No Schedule Saved"
+msgstr ""
+
+#. translators: %s: search query.
+
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-contact.php:8
+msgid "Contact Info"
+msgstr ""
+
+#: template-contact.php:11
+msgid "Get In Touch"
+msgstr ""
+
+#: template-home.php:24
+msgid "Blog"
+msgstr ""
+
+#: template-parts/banner.php:16
+msgid "Header Image"
+msgstr ""
+
+#: template-parts/content-blogs.php:16 template-parts/content-single.php:62
+#: template-parts/content.php:61
+msgid "zero comment"
+msgstr ""
+
+#: template-parts/content-blogs.php:16 template-parts/content-single.php:62
+#: template-parts/content.php:61
+msgid "one comment"
+msgstr ""
+
+#: template-parts/content-blogs.php:16
+msgid "comments"
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:85
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:30
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-single.php:62 template-parts/content.php:61
+msgid "% comments"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Virtual Conference"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Virtual Conference is WordPress Theme for organizing online events and conference. This theme is based on WPEvetPartners WordPress Plugin for Events and Conferences. You can easily design an agenda and program schedule, create speakers profile, sponsors information from the customizer and dashboard itself. With this theme you can Embed your event video, Sell Virtual Event Tickets, Manage Schedule for different time zone, and everything that a virtual event required."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPEventPartners"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wpeventspartners.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Content Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Content Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Registration"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with sidebar"
+msgstr ""

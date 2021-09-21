@@ -1,0 +1,5 @@
+.customize-control-color .customize-control-title{float: left;}
+.customize-control-color .customize-control-content{float: right;}
+
+.customize-control-number .customize-control-title{float: left;}
+.customize-control-number > input[type=number]{float: right;width: 100px;}
