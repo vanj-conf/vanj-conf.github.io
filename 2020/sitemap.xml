@@ -3,7 +3,7 @@
         <head itemscope itemtype="http://schema.org/WebSite">
            <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:image" content="https://conf.vanj.jp/2020/wp-content/uploads/2020/07/vanj2020-01-1024x699.png">
+    <meta property="og:image" content="/2020/wp-content/uploads/2020/07/vanj2020-01-1024x699.png">
     <meta property="og:title" content="VANJ2020 Conference">
     <meta property="og:description" content="The VANJ Conference 2020 (VANJ20) is organized by The Vietnamese Academic Network in Japan (VANJ), as a multidisciplinary platform for science and technology exchange between the two countries. VANJ20 welcomes all the scientists, researchers, and experts in Japan and Vietnam to discuss various aspects of sustainable development. Together with the high-quality scientific contents, VANJ20 also aims to promote the exchange and active research collaboration between Vietnam and Japan.">
     <meta name="description" content="The VANJ Conference 2020 (VANJ20) is organized by The Vietnamese Academic Network in Japan (VANJ), as a multidisciplinary platform for science and technology exchange between the two countries. VANJ20 welcomes all the scientists, researchers, and experts in Japan and Vietnam to discuss various aspects of sustainable development. Together with the high-quality scientific contents, VANJ20 also aims to promote the exchange and active research collaboration between Vietnam and Japan.">
@@ -58,7 +58,7 @@ img.emoji {
 <style type='text/css'>img#wpstats{display:none}</style><link rel="icon" href="/wp-content/uploads/2020/07/cropped-logo-32x32.png" sizes="32x32" />
 <link rel="icon" href="/wp-content/uploads/2020/07/cropped-logo-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="/wp-content/uploads/2020/07/cropped-logo-180x180.png" />
-<meta name="msapplication-TileImage" content="https://conf.vanj.jp/2020/wp-content/uploads/2020/07/cropped-logo-270x270.png" />
+<meta name="msapplication-TileImage" content="/2020/wp-content/uploads/2020/07/cropped-logo-270x270.png" />
 		<style type="text/css" id="wp-custom-css">
 			li {
     list-style-position: inside;
@@ -83,7 +83,7 @@ p.my-justify-class {
                 <span class="toggle-bar"></span>
                 <span class="toggle-bar"></span>
             </button>
-    		<div class="menu-main-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="http://conf.vanj.jp/2020/">Home</a></li>
+    		<div class="menu-main-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="/2020/">Home</a></li>
 <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-78"><a href="/about/">About</a>
 <ul class="sub-menu">
 	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="/committees/">Committees</a></li>
@@ -129,7 +129,7 @@ p.my-justify-class {
                 <span class="toggle-bar"></span>
                 <span class="toggle-bar"></span>
             </button>
-    		<div class="menu-main-container"><ul id="primary-menu" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="http://conf.vanj.jp/2020/">Home</a></li>
+    		<div class="menu-main-container"><ul id="primary-menu" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="/2020/">Home</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-78"><a href="/about/">About</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="/committees/">Committees</a></li>
@@ -165,7 +165,7 @@ p.my-justify-class {
    <div id="acc-content">     
         <div id="content" class="site-content">
             
-    <header class="page-header"style="background: url(https://conf.vanj.jp/2020/wp-content/uploads/2020/08/cropped-79366498_163310811730471_6919164345028968448_o.jpg) no-repeat;">
+    <header class="page-header"style="background: url(/2020/wp-content/uploads/2020/08/cropped-79366498_163310811730471_6919164345028968448_o.jpg) no-repeat;">
         <div class="container">
             <h1 class="page-title">Error 404</h1><div class="breadcrumb"><div id="crumbs" itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="" class="home_crumb"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /><span class="separator"><i class="fas fa-long-arrow-alt-right"></i></span></span><span class="current" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">404 Error - Page not Found</span></div></div>        </div>
     </header>
