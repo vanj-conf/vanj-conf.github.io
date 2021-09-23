@@ -17,7 +17,7 @@
 	</xsl:variable>
 	<html xmlns="http://www.w3.org/1999/xhtml">
 		<head>
-<meta http-equiv="Last-Modified" content="Tue, 21 Sep 2021 02:04:42 GMT" />
+<meta http-equiv="Last-Modified" content="Thu, 23 Sep 2021 14:20:58 GMT" />
 			<title>
 				<xsl:choose><xsl:when test="$fileType='Sitemap'">Sitemap</xsl:when>
 					<xsl:otherwise>Sitemap Index</xsl:otherwise>
